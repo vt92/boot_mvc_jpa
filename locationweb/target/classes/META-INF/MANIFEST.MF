@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: locationweb
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Lenovo
+Implementation-Vendor-Id: com.vt.location
+Build-Jdk: 1.8.0_271
+Implementation-URL: https://spring.io/projects/spring-boot/locationweb
+Created-By: Maven Integration for Eclipse
+
