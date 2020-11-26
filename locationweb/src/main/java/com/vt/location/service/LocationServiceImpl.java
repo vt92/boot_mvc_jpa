@@ -14,16 +14,6 @@ public class LocationServiceImpl implements LocationService {
 
 	@Autowired
 	private LocationRepository locationRepository;
-	
-	
-
-	public LocationRepository getLocationRepository() {
-		return locationRepository;
-	}
-
-	public void setLocationRepository(LocationRepository locationRepository) {
-		this.locationRepository = locationRepository;
-	}
 
 	public Location saveLocation(Location location) {
 		return locationRepository.save(location);
